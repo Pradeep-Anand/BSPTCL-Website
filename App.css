@@ -1,0 +1,41 @@
+.head-img{
+  width:200px;
+  height:320px;
+  position:relative;
+}
+.pradeep:hover{
+  fill: #DA4567;
+  color:chartreuse;
+}
+.map path{
+  stroke: #000;
+  stroke-width:2px;
+  transition: fill 0.3s;
+}
+svg path:hover{
+  fill: green;
+}
+.li-bullet:before{
+  content: "\23FA";
+  color:#000;
+  margin-right: 5px;
+}
+hr{
+  color:#DA4567;
+}
+.chatbot{
+  position:absolute;
+  top:10px;
+}
+.resize .btn:nth-child(1){
+  font-size:0.5em;
+}
+.resize .btn:nth-child(2){
+  font-size:0.25em;
+}
+.resize .btn:nth-child(3){
+  font-size:0.125em;
+}
+h1,h2,h3,h4,h5,h5,p, a, li{
+  transition: 0.5s;
+}

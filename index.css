@@ -1,0 +1,6 @@
+.pradeep:hover{
+  background-color: brown;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
